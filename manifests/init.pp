@@ -18,7 +18,7 @@
 #    class{'firewalld':
 #      install_gui => true,
 #    }
-#    
+#
 #
 #
 # === Authors
